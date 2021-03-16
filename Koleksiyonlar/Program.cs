@@ -23,7 +23,7 @@ namespace Koleksiyonlar
 
             //List<string> isimler2 = new List<string>(); //listeye eleman yazmak için ' new List<string> {elemanlar burada olacak } ' bu yöntemi de kullanabilirsin
             List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
-            //isimler2.Add("Alpcan"); //liateye ekledin alpcanı
+            //isimler2.Add("Alpcan"); //listeye ekledin alpcanı
             // Listler birer classtır aslında zaten renginin yeşil olmasından anlayabilirsin.
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);
